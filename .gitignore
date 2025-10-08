@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.pth
+models/
+weights/
+data/
+datasets/
+.DS_Store
+Thumbs.db
